@@ -1,0 +1,7 @@
+.idea/*
+test_*.py
+ComputeGraph/*
+trainedModel/*
+computeGraph/*/*
+trainedModel/*/*
+__*/*
