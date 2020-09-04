@@ -5,3 +5,4 @@ trainedModel/*
 computeGraph/*/*
 trainedModel/*/*
 __*/*
+*/.ipynb_checkpoints/*
